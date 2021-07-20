@@ -10,3 +10,4 @@ How To Run
   
     
 4. Sync and run
+5. NB: Ensure you have internet connection when runninng.
