@@ -1,0 +1,2 @@
+rootProject.name = "Letshego_NY_API"
+include ':app'
