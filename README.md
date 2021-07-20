@@ -5,7 +5,8 @@ How To Run
 3. Import into android studio
 4. Ensure that you have the following 2 dependencies in build.gradle(app)
 
-    implementation 'com.android.volley:volley:1.2.0'
-    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    1. implementation 'com.android.volley:volley:1.2.0'
+    2. implementation 'de.hdodenhof:circleimageview:3.1.0'
+  
     
 4. Sync and run
