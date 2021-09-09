@@ -9,5 +9,5 @@ How To Run
     2. implementation 'de.hdodenhof:circleimageview:3.1.0'
   
     
-4. Sync and run
+4. Sync and run.
 5. NB: Ensure you have internet connection when runninng.
